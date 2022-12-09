@@ -1,2 +1,2 @@
 # patstat_with_python
-Using the database Patstat with Python
+Using the Patstat database with Python
