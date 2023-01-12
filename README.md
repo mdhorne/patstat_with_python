@@ -1,7 +1,7 @@
 # patstat_with_python
 Using the Patstat database from the European Patent Office with Python.
 
-These scripts use Selenium and have been tested with Mozilla Firefox and the geckodriver. I cannot guarantee they will work with other browsers.
+These scripts use Selenium and have been implemented with Mozilla Firefox and the geckodriver. It has been successfully tested with Microsoft Edge and Google Chrome.
 
 For Mozilla Firefofx, the web driver file can be downloaded using the following link:
 https://github.com/mozilla/geckodriver/releases
